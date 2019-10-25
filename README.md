@@ -1,4 +1,4 @@
-# Modeling-of-strength-of-high-performance-concrete-using-Machine-Learning
+# Modeling-strength-of-high-performance-concrete-using-Machine-Learning
 
 # Problem statement
 Modeling of strength of high performance concrete using Machine Learning.
